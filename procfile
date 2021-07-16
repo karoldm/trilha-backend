@@ -1,2 +1,2 @@
-web: yarn deploy
+web : yarn deploy
 
